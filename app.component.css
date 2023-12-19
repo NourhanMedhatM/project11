@@ -1,0 +1,16 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap");
+.header{
+    width: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 100;
+    background-color: #FBFEFD;
+  }
+  .nav{
+    max-width: 1024px;
+    height:0 0 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
